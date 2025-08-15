@@ -11,5 +11,4 @@ A simple React To-Do List application with task management features including:
 ## Installation & Running
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
-   cd todo-app
+   git clone https://github.com/nubasuyu/Managing-State-in-React
